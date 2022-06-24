@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HttpServer/HttpServer.cs">
+    <Files>
+      <File FileName="HttpServer/Class1.cs" Line="1" Column="1" />
+      <File FileName="HttpServer/HttpServer.cs" Line="69" Column="46" />
+      <File FileName="HttpServer/HttpExt.cs" Line="29" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HttpServer" expanded="True">
+            <Node name="HttpServer" expanded="True">
+              <Node name="HttpServer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
